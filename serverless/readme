@@ -1,0 +1,13 @@
+ALMUERZI 
+Aplicacion para contactar a la persona que trabaja con un chef, que tiene un emprendimiento con distintos platos de comida.
+Al terminar el plato, lo mete dentro de un camion o auto y se los pasa a dejar a las personas que estan trabajando.
+Tenemos que hacer una app movil para los usuarios, para que puedan realizar pedidos.
+Al chef hay que darle una app que automatize, con el menu del dia (pueden ser varios).
+El usuario puede elegir algun plato, lo cual le llega una notificacion al cheft para preparar el plato.
+
+El modelo de datos:
+*Coleccion de platos con id,name y una descripcion.
+*Pedidos con id, meal_id(id del plato), user_id(id de usuario)
+
+URL para postman con -> now
+https://vercel.com/hernans-projects-b6096d8e/almuerzi/settings
